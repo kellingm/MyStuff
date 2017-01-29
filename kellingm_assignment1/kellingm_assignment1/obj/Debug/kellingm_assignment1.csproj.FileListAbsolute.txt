@@ -1,0 +1,6 @@
+C:\Users\marie\Documents\GitHub\kellingm_assignment1\kellingm_assignment1\bin\Debug\kellingm_assignment1.exe.config
+C:\Users\marie\Documents\GitHub\kellingm_assignment1\kellingm_assignment1\obj\Debug\kellingm_assignment1.csprojResolveAssemblyReference.cache
+C:\Users\marie\Documents\GitHub\kellingm_assignment1\kellingm_assignment1\bin\Debug\kellingm_assignment1.exe
+C:\Users\marie\Documents\GitHub\kellingm_assignment1\kellingm_assignment1\bin\Debug\kellingm_assignment1.pdb
+C:\Users\marie\Documents\GitHub\kellingm_assignment1\kellingm_assignment1\obj\Debug\kellingm_assignment1.exe
+C:\Users\marie\Documents\GitHub\kellingm_assignment1\kellingm_assignment1\obj\Debug\kellingm_assignment1.pdb
